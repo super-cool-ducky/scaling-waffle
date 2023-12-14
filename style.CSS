@@ -1,0 +1,29 @@
+body
+{
+    background: rgb(255, 253, 216);
+}
+
+#people
+{
+    font-family: 'Indie Flower', cursive;
+    background-color: rgb(255, 232, 232);
+}
+
+#this-model-note
+{
+    font-family: 'Kalam', cursive;
+    background-color: rgb(231, 199, 237);
+}
+
+.copy_right_footer
+{
+    font-family: 'Silkscreen', cursive;
+    background-color: rgb(255, 218, 243);
+}
+
+#ir
+{
+    font-family: 'Silkscreen', cursive;
+    font-size: 30px;
+    background-color: rgb(255, 230, 249);
+}
